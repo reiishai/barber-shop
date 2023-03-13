@@ -24,7 +24,7 @@ interface AppPage {
 const appPages: AppPage[] = [
   {
     title: 'קביעת תורים',
-    url: '/page/scheduling Appointments',
+    url: '/page/schedulingAppointments',
     iosIcon: calendarOutline,
     mdIcon: calendarOutline
   },
